@@ -20,5 +20,6 @@ output application/json
 			</ee:message>
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="02385adc-8352-4523-bf94-b393f16bba02" message="process end"/>
+		<logger level="INFO" doc:name="Logger" doc:id="34f5d207-7b3e-42c1-a1fe-070bc4ef662e" message="end"/>
 	</flow>
 </mule>
